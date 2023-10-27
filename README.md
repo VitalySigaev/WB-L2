@@ -1,7 +1,7 @@
 # WB-L2
 ## 5 мини-проектов на JS
 ### 1)Tetris
-Ссылка на репозиторий: https://github.com/VitalySigaev/Tetris
+Ссылка на репозиторий: https://github.com/VitalySigaev/Tetris <br />
 Сcылка на хостинг: https://vitalysigaev.github.io/Tetris/
 
 ### 2)Meme-generator
@@ -17,5 +17,5 @@
 Сcылка на хостинг: https://vitalysigaev.github.io/Calorie-calculator/
 
 ### 5)Tick-tack-toe
-Ссылка на репозиторий: https://github.com/VitalySigaev/Tick-tack-toe /n
+Ссылка на репозиторий: https://github.com/VitalySigaev/Tick-tack-toe 
 Сcылка на хостинг: https://vitalysigaev.github.io/Tick-tack-toe/
